@@ -1,0 +1,5 @@
+#rootAnchorPane{
+    -fx-background-image: url("fondo.jpg");
+	/*-fx-background-color: linear-gradient(#2A5058, #61a2b1);*/
+    
+}
